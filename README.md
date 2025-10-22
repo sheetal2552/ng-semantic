@@ -99,11 +99,6 @@ If you’d like to support me developing this project you’re able to do so by 
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/ngsemantic)
 
-####  Angular 2 QuickStart with ngSemantic
-https://github.com/vladotesanovic/angular2-quickstart-ngsemantic
-
-####  Angular 2 CLI with ngSemantic
-https://github.com/vladotesanovic/angular2-cli-webpack
 
 ### Development
 ```bash
